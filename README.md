@@ -50,3 +50,14 @@ cd frontend
 npm install
 ng serve
 ```
+## 🔐 Authentication
+
+This project implements **secure JWT-based authentication** to manage user access.
+
+- Users can **register** and **login** via a dedicated authentication flow.
+- Upon successful login, a **JWT token** is generated and sent to the client.
+- The client stores this token in local storage.
+- All protected API routes require the token to be passed in the **Authorization** header.
+- This ensures secure communication and prevents unauthorized access.
+
+## 📸 Screenshots
