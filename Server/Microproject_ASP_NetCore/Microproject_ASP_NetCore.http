@@ -1,0 +1,6 @@
+@Microproject_ASP_NetCore_HostAddress = http://localhost:5271
+
+GET {{Microproject_ASP_NetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

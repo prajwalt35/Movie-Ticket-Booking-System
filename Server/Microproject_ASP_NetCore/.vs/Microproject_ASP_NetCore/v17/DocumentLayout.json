@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\bookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\bookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\controllers\\theatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:controllers\\theatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\theaterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\theaterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\showtimeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\showtimeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|c:\\users\\prajw\\source\\repos\\asp.net code\\microproject_asp_netcore\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA42C5-E552-42F8-AD38-49EED20538AB}|Microproject_ASP_NetCore.csproj|solutionrelative:models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:55:45.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:16:12.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\BookingRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\BookingRequestDto.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\BookingRequestDto.cs",
+              "RelativeToolTip": "Models\\BookingRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:15:25.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T17:47:33.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TheaterController.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\TheaterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TheaterController.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\TheaterController.cs",
+              "RelativeToolTip": "Controllers\\TheaterController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:30:39.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShowtimeResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\ShowtimeResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\ShowtimeResponseDto.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\ShowtimeResponseDto.cs",
+              "RelativeToolTip": "Models\\ShowtimeResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:29:53.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TheaterDto.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\TheaterDto.cs",
+              "RelativeDocumentMoniker": "Models\\TheaterDto.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\TheaterDto.cs",
+              "RelativeToolTip": "Models\\TheaterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:29:24.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\ShowTime.cs",
+              "RelativeDocumentMoniker": "Models\\ShowTime.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\ShowTime.cs",
+              "RelativeToolTip": "Models\\ShowTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:27:37.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Theater.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\Theater.cs",
+              "RelativeDocumentMoniker": "Models\\Theater.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\Theater.cs",
+              "RelativeToolTip": "Models\\Theater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:27:13.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:05:19.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:01:18.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T08:24:32.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\ProfileDto.cs",
+              "RelativeToolTip": "Models\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:55:51.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:50:34.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:50:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:47:41.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeatController.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\SeatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeatController.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\SeatController.cs",
+              "RelativeToolTip": "Controllers\\SeatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:47:34.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\Seat.cs",
+              "RelativeDocumentMoniker": "Models\\Seat.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\Seat.cs",
+              "RelativeToolTip": "Models\\Seat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:47:18.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:47:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:46:58.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\UserAuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAuthController.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\ASP.Net Code\\Microproject_ASP_NetCore\\Controllers\\UserAuthController.cs",
+              "RelativeToolTip": "Controllers\\UserAuthController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:44:32.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
